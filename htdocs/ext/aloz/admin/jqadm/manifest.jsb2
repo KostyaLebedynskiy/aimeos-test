@@ -1,0 +1,22 @@
+{
+	"projectName": "aloz",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "aloz CSS",
+		"file": "aloz.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "aloz JS",
+		"file": "aloz.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
